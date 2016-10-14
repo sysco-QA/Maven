@@ -1,0 +1,15 @@
+com/sysco/pages/LoginPage.class
+com/sysco/pages/InventoryToolPage.class
+com/sysco/locators/Screenshot.class
+com/sysco/pages/ListPage.class
+com/sysco/pages/VendorPage.class
+com/sysco/pages/AccountsPage.class
+com/sysco/pages/CategoryPage.class
+com/sysco/locators/DataPoolCoordinates.class
+com/sysco/pages/LocationsPage.class
+com/sysco/pages/FoodCostPage.class
+com/sysco/jsn_framework/JSN_Framework.class
+com/sysco/pages/PurchasesPage.class
+com/sysco/pages/SetupInventoryPage.class
+com/sysco/pages/HomePage.class
+com/sysco/test/WorkFlow.class
